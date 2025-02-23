@@ -12,3 +12,4 @@ C:\Users\PC\Desktop\Code\threadingstuff\obj\Debug\net8.0\refint\threadingstuff.d
 C:\Users\PC\Desktop\Code\threadingstuff\obj\Debug\net8.0\threadingstuff.pdb
 C:\Users\PC\Desktop\Code\threadingstuff\obj\Debug\net8.0\threadingstuff.genruntimeconfig.cache
 C:\Users\PC\Desktop\Code\threadingstuff\obj\Debug\net8.0\ref\threadingstuff.dll
+C:\Users\PC\Desktop\Code\threadingstuff\obj\Debug\net8.0\threadingstuff.sourcelink.json
