@@ -18,7 +18,6 @@ static void ParallelInvoke(Action[] actions)
     {
         Parallel.ForEach(actions, action => action.Invoke());
     }
-
 }
 
 static void WriteToConsole<T>(IEnumerable<T> source, Action<T> action)
